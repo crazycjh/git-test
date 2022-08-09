@@ -1,1 +1,2 @@
 It's test in ch1.
+New line.
